@@ -1,0 +1,10 @@
+.location{
+    margin-bottom: 1em;
+    box-shadow: 2px 2px 2px azure;
+    margin-top: 0.5em;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 15px;
+    color: azure;
+    background-color: var(--bg--card);
+}

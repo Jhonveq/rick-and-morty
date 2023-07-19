@@ -1,0 +1,11 @@
+.resident-container {
+    display: flex;
+    gap: 2em;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.title {
+    color: var(--useful--color);
+    justify-content: center;
+}
